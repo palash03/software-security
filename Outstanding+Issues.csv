@@ -1,0 +1,4 @@
+﻿CID,Type,Impact,Status,First Detected,Owner,Classification,Severity,Action,Component,Category,File,Function
+10595,Unsafe reflection,Low,New,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security,/api/src/main/java/org/openmrs/calculation/ClasspathCalculationProvider.java,ClasspathCalculationProvider.getCalculation
+10576,Unsafe reflection,Low,New,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security,/api/src/main/java/org/openmrs/calculation/CalculationUtil.java,CalculationUtil.getCalculation
+10573,"Filesystem path, filename, or URI manipulation",High,New,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,/api/src/main/java/org/openmrs/calculation/ImplementationConfiguredCalculationProvider.java,ImplementationConfiguredCalculationProvider.getCalculation
