@@ -1,0 +1,3 @@
+﻿CID,Type,Impact,First Detected,Owner,Classification,Severity,Action,Component,Category,Issue Kind,CWE
+11611,Unsafe deserialization,High,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,Security,502
+12468,Trust boundary violation,Low,01/24/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security,Security,501

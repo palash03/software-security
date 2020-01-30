@@ -1,0 +1,14 @@
+﻿CID,Type,Impact,First Detected,Owner,Classification,Severity,Action,Component,Category,Issue Kind,CWE
+11096,Cross-site request forgery,High,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,Security,352
+11097,Cross-site request forgery,High,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,Security,352
+11099,DOM-based cross-site scripting,High,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,Security,79
+11102,Cross-site request forgery,High,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,Security,352
+11114,DOM-based cross-site scripting,High,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,Security,79
+11119,DOM-based cross-site scripting,High,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,Security,79
+11120,Unsafe deserialization,High,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,Security,502
+11122,Unsafe deserialization,High,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,Security,502
+11098,Unsafe reflection,Low,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security,Security,470
+11105,Unsafe reflection,Low,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security,Security,470
+11108,Unsafe reflection,Low,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security,Security,470
+11118,Unsafe reflection,Low,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security,Security,470
+11126,Unsafe reflection,Low,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security,Security,470
