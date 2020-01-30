@@ -1,0 +1,17 @@
+﻿CID,Type,Impact,First Detected,Owner,Classification,Severity,Action,Component,Category,Issue Kind,CWE
+11018,Resource leak on an exceptional path,Low,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,Various,404
+12486,Resource leak on an exceptional path,Low,01/26/20,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,Various,404
+11008,"Filesystem path, filename, or URI manipulation",High,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,Security,22
+11060,"Filesystem path, filename, or URI manipulation",High,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,Security,22
+11025,Unsafe reflection,Low,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security,Security,470
+11028,Unsafe reflection,Low,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security,Security,470
+11039,Unsafe reflection,Low,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security,Security,470
+10995,Open redirect,Medium,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Medium impact security,Security,601
+10996,SQL injection,Medium,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Medium impact security,Security,89
+11016,Open redirect,Medium,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Medium impact security,Security,601
+11031,SQL injection,Medium,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Medium impact security,Security,89
+10939,Resource leak,High,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,Various,404
+10972,Resource leak,High,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,Various,404
+10984,Resource leak,High,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,Various,404
+10992,Resource leak,High,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,Various,404
+11006,Resource leak,High,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,Various,404

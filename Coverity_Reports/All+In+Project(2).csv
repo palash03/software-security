@@ -1,0 +1,6 @@
+﻿CID,Type,Impact,First Detected,Owner,Classification,Severity,Action,Component,Category,Issue Kind,CWE
+10682,Unsafe deserialization,High,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,Security,502
+10709,Unsafe deserialization,High,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,Security,502
+12474,Unsafe deserialization,High,01/25/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,Security,502
+12480,Unsafe deserialization,High,01/25/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,Security,502
+12482,Unsafe deserialization,High,01/25/20,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,Security,502

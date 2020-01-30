@@ -1,0 +1,2 @@
+﻿CID,Type,Impact,First Detected,Owner,Classification,Severity,Action,Component,Category,Issue Kind,CWE
+10530,Open redirect,Medium,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Medium impact security,Security,601

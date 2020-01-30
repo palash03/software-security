@@ -1,0 +1,2 @@
+﻿CID,Type,Impact,First Detected,Owner,Classification,Severity,Action,Component,Category,Issue Kind,CWE
+12079,Unsafe reflection,Low,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security,Security,470

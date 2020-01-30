@@ -1,0 +1,4 @@
+﻿CID,Type,Impact,First Detected,Owner,Classification,Severity,Action,Component,Category,Issue Kind,CWE
+10573,"Filesystem path, filename, or URI manipulation",High,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,Security,22
+10576,Unsafe reflection,Low,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security,Security,470
+10595,Unsafe reflection,Low,09/19/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security,Security,470
